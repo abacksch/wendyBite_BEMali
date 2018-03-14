@@ -1,0 +1,53 @@
+/*this is a test*/
+
+body {border-style: solid;
+color: grey;
+width: 100%
+height: 100%;
+padding: 10%}
+
+body 
+{background-color: #404040;
+margin: 25px;
+outline: #d3d3d3 solid 2px
+outline offset: 10px;
+text-align: justify;
+}
+
+div header { text-align: center; }
+h3 { text-align: center; }
+
+header h1 
+
+{font-style: italic;
+font-weight: normal;
+text-align: center;
+color: white;}
+
+h2 {font-family: helvetica}
+h2 {color: white}
+h3 {font-family: helvetica}
+h3 {color: white;}
+h4 {font-family: helvetica}
+h4 {color: white}
+p {font-family: times new roman	
+font-style: normal;
+color: #d3d3d3}
+
+p style {clear:right;}
+
+img {outline: #d3d3d3 solid 1px;
+    margin: 15px;    
+    padding: 3px;
+    text-align: center;
+    float: right;
+	clear:right;}
+	
+.clearfix {object-position: top right;}	
+
+li {text-align: justify;
+	color: #d3d3d3;}
+
+a {color: #66cdaa;}
+
+hr {border-color: grey;}
